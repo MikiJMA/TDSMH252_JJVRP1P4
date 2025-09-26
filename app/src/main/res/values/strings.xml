@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TDSMH252_JJVRP1E2</string>
+    <string name="p1titulo">ingreso de datos</string>
+    <string name="p1solnombre">ingrese su nombre</string>
+    <string name="hsolnombre">Aqui tu nombre</string>
+    <string name="blsaludar">Saludar</string>
+    <string name="p1tiutulo2">Calculadora</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="hlnum1">Aqui el primer numero</string>
+    <string name="hlnum2">Aqui el segundo numero</string>
+    <string name="blsumar">Suma numeros</string>
+    <string name="blresta">Resta numeros</string>
+    <string name="bldivicion">Divide</string>
+    <string name="blmultiplicacion">Multiplica</string>
+    <string name="blpotencia">Potencia</string>
+    <string name="blpotenciaN">Potencia N</string>"
+    <string name="p2titulo">Suma de numeros</string>
+    <string name="p2titulo1">Resta de numeros</string>
+    <string name="blbuttonp1">Inicio</string>
+    <string name="p2titulo2">Division de numeros</string>
+    <string name="p2titulo3">Multiplicacion de numeros</string>">
+    <string name="p2titulo4">Potencia de numeros</string>
+    <string name="p2titulo5">Potencia N de numeros</string>
+
+
+</resources>
